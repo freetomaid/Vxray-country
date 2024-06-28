@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email "freetomaid@fitrianto.biz.id"
           git config --global user.name "freetomaid"
-          git remote set-url origin https://github.com/nantuan/Vxray-country.git"
+          git remote set-url origin https://github.com/nantuan/Vxray-country.git
       
       - name: Install dependencies
         run: |
