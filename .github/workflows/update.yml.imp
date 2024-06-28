@@ -20,9 +20,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "freetomaid@fitrianto.biz.id"
-          git config --global user.name "freetomaid"
-          git remote set-url origin https://github.com/nantuan/Vxray-country.git
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git remote set-url origin https://github.com/freetomaid/VrayColl.git
       
       - name: Install dependencies
         run: |
