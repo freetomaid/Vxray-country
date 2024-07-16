@@ -17,14 +17,19 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 | [Netherlands](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Netherlands/config.txt) |
 | [Poland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Poland/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Ireland/config.txt) |
+| [Armenia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Armenia/config.txt) |
 | [United States](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20States/config.txt) |
 | [United Arab Emirates](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20Arab%20Emirates/config.txt) |
+| [Iceland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Iceland/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20Kingdom/config.txt) |
 | [Iran](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Iran/config.txt) |
+| [Latvia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Latvia/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Sweden/config.txt) |
+| [Macedonia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Macedonia/config.txt) |
 | [Russia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Russia/config.txt) |
 | [Finland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Finland/config.txt) |
 | [Canada](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Canada/config.txt) |
+
 
 
 
