@@ -8,6 +8,7 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 ## Sub
 | Sub |
 |-----|
+| [Estonia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Estonia/config.txt) |
 | [Japan](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Japan/config.txt) |
 | [Iran](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Iran/config.txt) |
 | [United Arab Emirates](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20Arab%20Emirates/config.txt) |
@@ -16,6 +17,7 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 | [Italy](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Italy/config.txt) |
 | [Austria](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Austria/config.txt) |
 | [Costa Rica](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Costa%20Rica/config.txt) |
+| [Malta](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Malta/config.txt) |
 | [Australia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Australia/config.txt) |
 | [Canada](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Canada/config.txt) |
 | [Finland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Finland/config.txt) |
@@ -35,6 +37,8 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 | [Germany](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Germany/config.txt) |
 | [Switzerland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Switzerland/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Singapore/config.txt) |
+| [Taiwan](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Taiwan/config.txt) |
+
 
 
 
