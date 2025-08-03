@@ -10,11 +10,13 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 |-----|
 | [Costa Rica](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Costa%20Rica/config.txt) |
 | [Bahrain](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Bahrain/config.txt) |
+| [Uzbekistan](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Uzbekistan/config.txt) |
 | [Spain](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Spain/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20Kingdom/config.txt) |
 | [Italy](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Italy/config.txt) |
 | [Slovak Republic](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Slovak%20Republic/config.txt) |
 | [United States](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20States/config.txt) |
+| [Saudi Arabia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Saudi%20Arabia/config.txt) |
 | [Russia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Russia/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Singapore/config.txt) |
 | [Germany](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Germany/config.txt) |
@@ -31,12 +33,12 @@ This Python script scrapes V2Ray configuration links from various Telegram chann
 | [Japan](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Japan/config.txt) |
 | [Armenia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Armenia/config.txt) |
 | [Serbia](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Serbia/config.txt) |
-| [Czech Republic](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Czech%20Republic/config.txt) |
 | [Brazil](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Brazil/config.txt) |
 | [United Arab Emirates](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/United%20Arab%20Emirates/config.txt) |
 | [Switzerland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Switzerland/config.txt) |
 | [Austria](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Austria/config.txt) |
 | [Finland](https://raw.githubusercontent.com/freetomaid/Vxray-country/main/sub/Finland/config.txt) |
+
 
 
 
